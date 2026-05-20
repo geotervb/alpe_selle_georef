@@ -1,7 +1,7 @@
 {
     "version": "1.8",
     "octreeDir": "data",
-    "projection": "EPSG:32632",
+    "projection": "+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs",
     "points": 12120993,
     "boundingBox": {
         "lx": 430140.3139953613,
